@@ -54,36 +54,39 @@
 						<!-- Post -->
 							<section class="post">
 								<header class="major">
-									<h3><strong>Hi there! I’m Amal.</strong></h3>
+									<h3><strong>Hello there! I’m Amal.</strong></h3>
 								</header>
 								<!-- <h3>Left &amp; Right</h3> -->
 								<header>
 								<h2>About me</h2>
-								<p><span class="image left"><img src="images/lin.jpg" alt="" /></span>I'm an engineering graduate and Machine Learning engineer (co-op) at Procter & Gamble, where I had the opportunity to learn with leading experts in data science domain. I have developed
-									and implemented several ML and DL algorithms for various AI tasks in computer vision, NLP and other domains.  
+								<p><span class="image left"><img src="images/lin.jpg" alt="" /></span>I'm an engineering graduate and Machine Learning engineer (co-op) at Procter & Gamble. I am passionate in developing creative solutions in real world applications using the power of AI and Machine Learning.
 								<br />
-								I am a Master's student in Artificial Intelligence and Robotics at University of Cincinnati, Ohio. I am proficient in programming languages such as Python, C++, and Matlab, and skilled in utilizing machine learning tools and libraries including PyTorch, TensorFlow, Scikit-learn, and OpenCV. I am passionate about continuous learning and innovation, and eager to contribute to dynamic projects and collaborative teams.
-								<br />I also enjoy reading books, gaming and Trading Crypto.</p>
+								I have a Master's specializing in Machine Learning and Robotics from University of Cincinnati, Ohio. I am comfortable coding in Python, C++ and Bash and can develop ML workflows and systems using
+								 libraries like PyTorch, TensorFlow, MLFLow, Scikit-learn, and OpenCV. At P&G I had the opportunity to learn and gain experience with leading experts in data science. I have developed
+								 and implemented several ML and DL algorithms for various AI tasks in Healthcare, computer vision and NLP.  I consider every new experience as an opportunity to learn and contribute to collaborative projects.
+								<br />I also enjoy reading books, running and trading crypto.</p>
 								</header>
 								
 								<header>
 								<h2>Skills</h2>
-									<p>Over the last couple of years, I've gained substantial experience utilizing machine learning models and data analysis tools. My work involved employing data science methods to draw insights for data visualization, forecasting models, and generating comprehensive reports for strategic solutions. </p>
-									<p>Currently, my focus is on Text Mining using Python.</pp> 
+									<p>Over the years, I've gained substantial experience in utilizing various machine learning models and data analysis tools. My work also involved employing data science approaches to draw insights from consumer feedback data, data visualization, creating forecasting models, and generating comprehensive reports for strategic solutions. </p>
+									<p>Currently, my focus is learning more on Generative AI using Python.</pp> 
 									<div class="row">
 										<div class="col-6 col-12-small">
 
 
 											<h3>Analysis and Visualization</h3>
 											<ul>
-												<li>Tableau</li>
 												<li>SQL</li>
+												<li>Tableau</li>
+												<li>Matplotlib</li>
 											</ul>
 
 											<h3>Cloud Platforms</h3>
 											<ul>
 												<li>Azure Databricks</li>
 												<li>Amazon Web Cloud</li>
+												<li>Google Cloud Platform</li>
 											</ul>
 
 
@@ -101,9 +104,9 @@
 											<h3>Programming Languages</h3>
 											<ul>
 												<li>Python</li>
-												<li>R</li>
-												<li>Julia</li>
 												<li>C++</li>
+												<li>R</li>
+												<li>Dart</li>
 												<li>Matlab</li>
 												<li>HTML</li>
 											</ul>
@@ -112,7 +115,7 @@
 								</header>
 								<header>
 									<h2>Resume</h2>
-									<p>I portray myself as a driven engineer who thrives in teamwork, specializing in Artificial Intelligence and Big Data. I possess practical experience in machine learning, including expertise in data mining, predictive modeling, and natural language processing. I am adept at working in dynamic settings, where I can easily adjust to shifting priorities while maintaining focus and dedication.</p>
+									<p>I portray myself as a driven engineer who thrives in teamwork, problem-solving and in coming up with innovative solutions. I possess practical experience in machine learning, including expertise in data mining, predictive modeling, and natural language processing. I am adept at working in dynamic settings and can easily adjust to shifting priorities while maintaining focus and dedication.</p>
 								</header>
 								<ul class="actions fit">
 									<li><a href="https://drive.google.com/file/d/1Kl1Fig3_LUDZbayVhNnrpTEjFHuGwvYJ/view?usp=sharing" target= "_blank" class="button fit"> Click to view Resume</a></li>
