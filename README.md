@@ -1,4 +1,3 @@
-# Amalraj99thomas.github.io
 <!DOCTYPE HTML>
 <!--
 	Massively by HTML5 UP
@@ -22,8 +21,8 @@
 					<div id="intro">
 						<h3><h3><br/>
 						<h1>Amal Thomas</h1>
-						<p>An innovative engineer exploring the world of Data Science. <br />
-						Artificial Intelligence | Machine Learning | Big Data | Robotics </p>
+						<p>An innovative engineer exploring the world of Artificial Intelligence. <br />
+						 Machine Learning| Data Science | Big Data | Robotics </p>
 						<ul class="actions">
 							<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
 						</ul>
@@ -60,7 +59,8 @@
 								<!-- <h3>Left &amp; Right</h3> -->
 								<header>
 								<h2>About me</h2>
-								<p><span class="image left"><img src="images/lin.jpg" alt="" /></span>I’m a Data Science Research Analyst at Procter & Gamble, where I apply cutting-edge machine learning and statistical models to enhance product analysis. 
+								<p><span class="image left"><img src="images/lin.jpg" alt="" /></span>I'm an engineering graduate and Machine Learning engineer (co-op) at Procter & Gamble, where I had the opportunity to learn with leading experts in data science domain. I have developed
+									and implemented several ML and DL algorithms for various AI tasks in computer vision, NLP and other domains.  
 								<br />
 								I am a Master's student in Artificial Intelligence and Robotics at University of Cincinnati, Ohio. I am proficient in programming languages such as Python, C++, and Matlab, and skilled in utilizing machine learning tools and libraries including PyTorch, TensorFlow, Scikit-learn, and OpenCV. I am passionate about continuous learning and innovation, and eager to contribute to dynamic projects and collaborative teams.
 								<br />I also enjoy reading books, gaming and Trading Crypto.</p>
